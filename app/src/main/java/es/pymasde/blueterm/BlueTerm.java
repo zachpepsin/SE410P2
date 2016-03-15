@@ -3,7 +3,6 @@ package es.pymasde.blueterm;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
-import android.app.FragmentManager;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.Context;
@@ -22,7 +21,6 @@ import android.os.Environment;
 import android.os.Handler;
 import android.os.Message;
 import android.preference.PreferenceManager;
-import android.support.v4.app.Fragment;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.widget.Toolbar;
 import android.util.AttributeSet;
@@ -45,8 +43,8 @@ import android.view.inputmethod.ExtractedTextRequest;
 import android.view.inputmethod.InputConnection;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -787,10 +785,15 @@ public class BlueTerm extends Activity {
 
     private void doStartRecording() {
     	File sdCard = Environment.getExternalStorageDirectory();
+
+        EditText pathEditText =  (EditText) findViewById(R.id.path);
+
+        String pathName;
+        String path = "/" + pathName;
     	
     	SimpleDateFormat format = new SimpleDateFormat("yyyyMMdd_HHmmss");
     	String currentDateTimeString = format.format(new Date());
-    	String fileName = sdCard.getAbsolutePath() + "/blueTerm_" + currentDateTimeString + ".log";
+    	String fileName = sdCard.getAbsolutePath() + path + currentDateTimeString + ".log";
     	
     	mEmulatorView.setFileNameLog( fileName );
     	mEmulatorView.startRecording();
