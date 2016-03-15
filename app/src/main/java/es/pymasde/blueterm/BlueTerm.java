@@ -20,7 +20,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.Message;
-import android.preference.PreferenceManager;
+import android.preference.*;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.widget.Toolbar;
 import android.util.AttributeSet;
@@ -756,7 +756,7 @@ public class BlueTerm extends Activity {
     }
     
     private void doPreferences() {
-        startActivity(new Intent(this, TermPreferences.class));
+        startActivity(new Intent(this, android.preference.PreferenceActivity.class));
     }
     
     public void doOpenOptionsMenu() {
