@@ -29,32 +29,32 @@
       <file leaf-file-name="BlueTerm.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/BlueTerm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53154576">
-              <caret line="795" column="53" selection-start-line="795" selection-start-column="53" selection-end-line="795" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.5469697">
+              <caret line="796" column="53" selection-start-line="796" selection-start-column="53" selection-end-line="796" selection-end-column="53" />
               <folding>
-                <marker date="1458013162000" expanded="true" signature="8140:8157" placeholder="&quot;BlueTerm&quot;" />
-                <marker date="1458013162000" expanded="true" signature="10639:10671" placeholder="&quot;This application needs the Bluetooth. Do you want turn on?&quot;" />
-                <marker date="1458013162000" expanded="true" signature="10768:10803" placeholder="&quot;Warning&quot;" />
-                <marker date="1458013162000" expanded="true" signature="10888:10913" placeholder="&quot;Yes&quot;" />
-                <marker date="1458013162000" expanded="true" signature="11335:11359" placeholder="&quot;No&quot;" />
-                <marker date="1458013162000" expanded="true" signature="16734:16753" placeholder="&quot;Disconnect device&quot;" />
-                <marker date="1458013162000" expanded="true" signature="16942:16969" placeholder="&quot;connected:&quot;" />
-                <marker date="1458013162000" expanded="true" signature="17181:17206" placeholder="&quot;connecting...&quot;" />
-                <marker date="1458013162000" expanded="true" signature="17543:17559" placeholder="&quot;Connect device&quot;" />
-                <marker date="1458013162000" expanded="true" signature="17723:17751" placeholder="&quot;not connected&quot;" />
-                <marker date="1458013162000" expanded="true" signature="18499:18537" placeholder="&quot;Connected to&quot;" />
-                <marker date="1458013162000" expanded="true" signature="19002:19029" placeholder="&quot;Cannot use this application without bluetooth.&quot;" />
-                <marker date="1458013162000" expanded="true" signature="19101:19118" placeholder="&quot;BlueTerm&quot;" />
-                <marker date="1458013162000" expanded="true" signature="19179:19203" placeholder="&quot;Ok&quot;" />
-                <marker date="1458013162000" expanded="true" signature="25097:25134" placeholder="&quot;Stop logging&quot;" />
-                <marker date="1458013162000" expanded="true" signature="25882:25926" placeholder="&quot;Press&quot;" />
-                <marker date="1458013162000" expanded="true" signature="25957:26000" placeholder="&quot;and Key&quot;" />
-                <marker date="1458013162000" expanded="true" signature="27003:27029" placeholder="&quot;Stop logging&quot;" />
-                <marker date="1458013162000" expanded="true" signature="27080:27120" placeholder="&quot;Logging started&quot;" />
-                <marker date="1458013162000" expanded="true" signature="27295:27322" placeholder="&quot;Start logging&quot;" />
-                <marker date="1458013162000" expanded="true" signature="27378:27418" placeholder="&quot;Logging stopped&quot;" />
-                <marker date="1458013162000" expanded="true" signature="27610:27640" placeholder="&quot;BlueTerm&quot;" />
-                <marker date="1458013162000" expanded="true" signature="27649:27682" placeholder="&quot;1.1.1&quot;" />
+                <marker date="1458013476000" expanded="true" signature="8176:8193" placeholder="&quot;BlueTerm&quot;" />
+                <marker date="1458013476000" expanded="true" signature="10675:10707" placeholder="&quot;This application needs the Bluetooth. Do you want turn on?&quot;" />
+                <marker date="1458013476000" expanded="true" signature="10804:10839" placeholder="&quot;Warning&quot;" />
+                <marker date="1458013476000" expanded="true" signature="10924:10949" placeholder="&quot;Yes&quot;" />
+                <marker date="1458013476000" expanded="true" signature="11371:11395" placeholder="&quot;No&quot;" />
+                <marker date="1458013476000" expanded="true" signature="16770:16789" placeholder="&quot;Disconnect device&quot;" />
+                <marker date="1458013476000" expanded="true" signature="16978:17005" placeholder="&quot;connected:&quot;" />
+                <marker date="1458013476000" expanded="true" signature="17217:17242" placeholder="&quot;connecting...&quot;" />
+                <marker date="1458013476000" expanded="true" signature="17579:17595" placeholder="&quot;Connect device&quot;" />
+                <marker date="1458013476000" expanded="true" signature="17759:17787" placeholder="&quot;not connected&quot;" />
+                <marker date="1458013476000" expanded="true" signature="18535:18573" placeholder="&quot;Connected to&quot;" />
+                <marker date="1458013476000" expanded="true" signature="19038:19065" placeholder="&quot;Cannot use this application without bluetooth.&quot;" />
+                <marker date="1458013476000" expanded="true" signature="19137:19154" placeholder="&quot;BlueTerm&quot;" />
+                <marker date="1458013476000" expanded="true" signature="19215:19239" placeholder="&quot;Ok&quot;" />
+                <marker date="1458013476000" expanded="true" signature="25133:25170" placeholder="&quot;Stop logging&quot;" />
+                <marker date="1458013476000" expanded="true" signature="25918:25962" placeholder="&quot;Press&quot;" />
+                <marker date="1458013476000" expanded="true" signature="25993:26036" placeholder="&quot;and Key&quot;" />
+                <marker date="1458013476000" expanded="true" signature="27508:27534" placeholder="&quot;Stop logging&quot;" />
+                <marker date="1458013476000" expanded="true" signature="27585:27625" placeholder="&quot;Logging started&quot;" />
+                <marker date="1458013476000" expanded="true" signature="27800:27827" placeholder="&quot;Start logging&quot;" />
+                <marker date="1458013476000" expanded="true" signature="27883:27923" placeholder="&quot;Logging stopped&quot;" />
+                <marker date="1458013476000" expanded="true" signature="28115:28145" placeholder="&quot;BlueTerm&quot;" />
+                <marker date="1458013476000" expanded="true" signature="28154:28187" placeholder="&quot;1.1.1&quot;" />
               </folding>
             </state>
           </provider>
@@ -67,6 +67,7 @@
       <list>
         <option value="Class" />
         <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
@@ -1629,6 +1630,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/xml/preference_headers.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/PreferenceActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dialog_path.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/BlueTerm.java" />
       </list>
     </option>
@@ -2163,23 +2165,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/PreferenceActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76363635">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <marker date="1458012773000" expanded="true" signature="37:125" placeholder="..." />
-            <marker date="1458012773000" expanded="true" signature="127:171" placeholder="/**...*/" />
-            <marker date="1458012773000" expanded="false" signature="281:296" placeholder=" { " />
-            <marker date="1458012773000" expanded="false" signature="331:337" placeholder=" }" />
-            <marker date="1458012773000" expanded="true" signature="343:411" placeholder="/**...*/" />
-            <marker date="1458012773000" expanded="true" signature="516:523" placeholder="{...}" />
-            <marker date="1458012773000" expanded="true" signature="599:815" placeholder="{...}" />
-            <marker date="1458012773000" expanded="true" signature="689:809" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/BluetoothSerialService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25454545">
@@ -2234,34 +2219,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_path.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3442623">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1458013347000" expanded="true" signature="113:463" placeholder="..." />
+            <marker date="1458013347000" expanded="true" signature="270:441" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/PreferenceActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21212122">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1458012773000" expanded="true" signature="37:125" placeholder="..." />
+            <marker date="1458012773000" expanded="true" signature="127:171" placeholder="/**...*/" />
+            <marker date="1458012773000" expanded="false" signature="281:296" placeholder=" { " />
+            <marker date="1458012773000" expanded="false" signature="331:337" placeholder=" }" />
+            <marker date="1458012773000" expanded="true" signature="343:411" placeholder="/**...*/" />
+            <marker date="1458012773000" expanded="true" signature="516:523" placeholder="{...}" />
+            <marker date="1458012773000" expanded="true" signature="599:815" placeholder="{...}" />
+            <marker date="1458012773000" expanded="true" signature="689:809" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/es/pymasde/blueterm/BlueTerm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53154576">
-          <caret line="795" column="53" selection-start-line="795" selection-start-column="53" selection-end-line="795" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.5469697">
+          <caret line="796" column="53" selection-start-line="796" selection-start-column="53" selection-end-line="796" selection-end-column="53" />
           <folding>
-            <marker date="1458013162000" expanded="true" signature="8140:8157" placeholder="&quot;BlueTerm&quot;" />
-            <marker date="1458013162000" expanded="true" signature="10639:10671" placeholder="&quot;This application needs the Bluetooth. Do you want turn on?&quot;" />
-            <marker date="1458013162000" expanded="true" signature="10768:10803" placeholder="&quot;Warning&quot;" />
-            <marker date="1458013162000" expanded="true" signature="10888:10913" placeholder="&quot;Yes&quot;" />
-            <marker date="1458013162000" expanded="true" signature="11335:11359" placeholder="&quot;No&quot;" />
-            <marker date="1458013162000" expanded="true" signature="16734:16753" placeholder="&quot;Disconnect device&quot;" />
-            <marker date="1458013162000" expanded="true" signature="16942:16969" placeholder="&quot;connected:&quot;" />
-            <marker date="1458013162000" expanded="true" signature="17181:17206" placeholder="&quot;connecting...&quot;" />
-            <marker date="1458013162000" expanded="true" signature="17543:17559" placeholder="&quot;Connect device&quot;" />
-            <marker date="1458013162000" expanded="true" signature="17723:17751" placeholder="&quot;not connected&quot;" />
-            <marker date="1458013162000" expanded="true" signature="18499:18537" placeholder="&quot;Connected to&quot;" />
-            <marker date="1458013162000" expanded="true" signature="19002:19029" placeholder="&quot;Cannot use this application without bluetooth.&quot;" />
-            <marker date="1458013162000" expanded="true" signature="19101:19118" placeholder="&quot;BlueTerm&quot;" />
-            <marker date="1458013162000" expanded="true" signature="19179:19203" placeholder="&quot;Ok&quot;" />
-            <marker date="1458013162000" expanded="true" signature="25097:25134" placeholder="&quot;Stop logging&quot;" />
-            <marker date="1458013162000" expanded="true" signature="25882:25926" placeholder="&quot;Press&quot;" />
-            <marker date="1458013162000" expanded="true" signature="25957:26000" placeholder="&quot;and Key&quot;" />
-            <marker date="1458013162000" expanded="true" signature="27003:27029" placeholder="&quot;Stop logging&quot;" />
-            <marker date="1458013162000" expanded="true" signature="27080:27120" placeholder="&quot;Logging started&quot;" />
-            <marker date="1458013162000" expanded="true" signature="27295:27322" placeholder="&quot;Start logging&quot;" />
-            <marker date="1458013162000" expanded="true" signature="27378:27418" placeholder="&quot;Logging stopped&quot;" />
-            <marker date="1458013162000" expanded="true" signature="27610:27640" placeholder="&quot;BlueTerm&quot;" />
-            <marker date="1458013162000" expanded="true" signature="27649:27682" placeholder="&quot;1.1.1&quot;" />
+            <marker date="1458013476000" expanded="true" signature="8176:8193" placeholder="&quot;BlueTerm&quot;" />
+            <marker date="1458013476000" expanded="true" signature="10675:10707" placeholder="&quot;This application needs the Bluetooth. Do you want turn on?&quot;" />
+            <marker date="1458013476000" expanded="true" signature="10804:10839" placeholder="&quot;Warning&quot;" />
+            <marker date="1458013476000" expanded="true" signature="10924:10949" placeholder="&quot;Yes&quot;" />
+            <marker date="1458013476000" expanded="true" signature="11371:11395" placeholder="&quot;No&quot;" />
+            <marker date="1458013476000" expanded="true" signature="16770:16789" placeholder="&quot;Disconnect device&quot;" />
+            <marker date="1458013476000" expanded="true" signature="16978:17005" placeholder="&quot;connected:&quot;" />
+            <marker date="1458013476000" expanded="true" signature="17217:17242" placeholder="&quot;connecting...&quot;" />
+            <marker date="1458013476000" expanded="true" signature="17579:17595" placeholder="&quot;Connect device&quot;" />
+            <marker date="1458013476000" expanded="true" signature="17759:17787" placeholder="&quot;not connected&quot;" />
+            <marker date="1458013476000" expanded="true" signature="18535:18573" placeholder="&quot;Connected to&quot;" />
+            <marker date="1458013476000" expanded="true" signature="19038:19065" placeholder="&quot;Cannot use this application without bluetooth.&quot;" />
+            <marker date="1458013476000" expanded="true" signature="19137:19154" placeholder="&quot;BlueTerm&quot;" />
+            <marker date="1458013476000" expanded="true" signature="19215:19239" placeholder="&quot;Ok&quot;" />
+            <marker date="1458013476000" expanded="true" signature="25133:25170" placeholder="&quot;Stop logging&quot;" />
+            <marker date="1458013476000" expanded="true" signature="25918:25962" placeholder="&quot;Press&quot;" />
+            <marker date="1458013476000" expanded="true" signature="25993:26036" placeholder="&quot;and Key&quot;" />
+            <marker date="1458013476000" expanded="true" signature="27508:27534" placeholder="&quot;Stop logging&quot;" />
+            <marker date="1458013476000" expanded="true" signature="27585:27625" placeholder="&quot;Logging started&quot;" />
+            <marker date="1458013476000" expanded="true" signature="27800:27827" placeholder="&quot;Start logging&quot;" />
+            <marker date="1458013476000" expanded="true" signature="27883:27923" placeholder="&quot;Logging stopped&quot;" />
+            <marker date="1458013476000" expanded="true" signature="28115:28145" placeholder="&quot;BlueTerm&quot;" />
+            <marker date="1458013476000" expanded="true" signature="28154:28187" placeholder="&quot;1.1.1&quot;" />
           </folding>
         </state>
       </provider>

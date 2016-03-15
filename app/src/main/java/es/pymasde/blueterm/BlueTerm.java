@@ -28,6 +28,7 @@ import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.GestureDetector;
 import android.view.KeyEvent;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -786,9 +787,19 @@ public class BlueTerm extends Activity {
     private void doStartRecording() {
     	File sdCard = Environment.getExternalStorageDirectory();
 
-        EditText pathEditText =  (EditText) findViewById(R.id.path);
+        final LayoutInflater factory = getLayoutInflater();
+        View dialogButtonsView = factory.inflate(R.layout.dialog_path, null);
+        EditText pathEditText =  (EditText) dialogButtonsView.findViewById(R.id.path);
 
-        String pathName;
+        Dialog pathDialog;
+
+        pathDialog = new Dialog(BlueTerm.this);
+        pathDialog.setContentView(dialogButtonsView);
+        pathDialog.setTitle("                                   Enter Path");
+        pathDialog.setCancelable(false);
+        pathDialog.show();
+
+        String pathName = pathEditText.getText().toString();
         String path = "/" + pathName;
     	
     	SimpleDateFormat format = new SimpleDateFormat("yyyyMMdd_HHmmss");
