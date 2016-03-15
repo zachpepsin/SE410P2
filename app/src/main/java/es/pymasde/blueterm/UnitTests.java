@@ -4,7 +4,7 @@ public class UnitTests {
 
     @Test
     public void pathIsNotNull() throws Exception {
-        assertNotNull(BlueTerm.path);
+        assertNotNull(BlueTerm.pathName);
     }
 
 }
