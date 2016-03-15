@@ -24,6 +24,7 @@ import android.os.Message;
 import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.widget.Toolbar;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;
 import android.util.Log;
@@ -67,6 +68,7 @@ public class BlueTerm extends Activity {
 	public static final int ORIENTATION_PORTRAIT  = 1;
 	public static final int ORIENTATION_LANDSCAPE = 2;
 
+    private static Toolbar toolbar;                             // Toolbar at the top of the activity
 
     private static TextView mTitle;
 
@@ -194,6 +196,10 @@ public class BlueTerm extends Activity {
         mMenuTitles = getResources().getStringArray(R.array.menu_titles_array);
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         mDrawerList = (ListView) findViewById(R.id.left_drawer);
+
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        toolbar.setTitle("Blueterm");
 
         // Set the adapter for the list view
         /*
