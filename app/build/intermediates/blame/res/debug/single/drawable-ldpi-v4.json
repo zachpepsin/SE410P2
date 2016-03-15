@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/brettrosen/Desktop/BlueTerm/SE410P2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/Users/brettrosen/Desktop/BlueTerm/SE410P2/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "C:\\Users\\brettrosen\\Desktop\\BlueTerm\\SE410P2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\brettrosen\\Desktop\\BlueTerm\\SE410P2\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zach\\Documents\\GitHub\\striker\\striker\\app\\SE410P2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Zach\\Documents\\GitHub\\striker\\striker\\app\\SE410P2\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]
